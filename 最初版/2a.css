@@ -1,0 +1,19 @@
+.ad{
+   text-align: center;
+   font-family:Arial;
+}
+
+body{
+   background-color: black;
+   color: white;
+   font-family:Arial;
+}
+.tu{
+    width: 50%;
+}
+.shipin{
+         position: relative;
+         height: 1000px;
+         width: 1000px;
+         left: 2000px;
+}
